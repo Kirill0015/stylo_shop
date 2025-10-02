@@ -1,7 +1,6 @@
 # Stylo-Shop-Jewelry-Nextjs14-Ecommerce
 
 This project elevates the Vercel Next.js eCommerce template into a custom-tailored jewellery shopping experience.
-https://styloshopjewels.vercel.app/
 
 ## Core Technologies
 
